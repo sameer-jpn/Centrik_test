@@ -1,0 +1,13 @@
+.flex-container{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+img{
+    height: 200px;
+}
+
+.center {
+    align-items: center;
+}
